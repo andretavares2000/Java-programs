@@ -43,3 +43,5 @@ movimentar.
 
 Apesar de estar a funcionar, esta parte do projeto causou-me alguns problemas e não tive tempo para os arranjar. Irá haver muito lag entre o envio do servidor para o
 cliente.
+
+Este projeto foi efetuado individualmente. 
